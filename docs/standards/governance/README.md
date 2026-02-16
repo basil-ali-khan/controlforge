@@ -1,0 +1,62 @@
+# Governance Standards
+
+This folder contains markdown summaries for all **56** governance standards in the pack registry.
+
+## Standards
+
+- [EU — AI Act (Regulation (EU) 2024/1689)](./eu-ai-act.md) — Reference checklist pack for EU — AI Act (Regulation (EU) 2024/1689).
+- [NIST — AI Risk Management Framework (AI RMF 1.0)](./nist-ai-rmf.md) — Reference checklist pack for NIST — AI Risk Management Framework (AI RMF 1.0).
+- [ISO/IEC 42001:2023 — AI Management System (AIMS)](./gov-03-iso-iec-42001-2023-ai-management-system-aims.md) — Reference checklist pack for ISO/IEC 42001:2023 — AI Management System (AIMS).
+- [ISO/IEC 23894:2023 — AI risk management guidance](./gov-04-iso-iec-23894-2023-ai-risk-management-guidance.md) — Reference checklist pack for ISO/IEC 23894:2023 — AI risk management guidance.
+- [OECD — AI Principles](./gov-05-oecd-ai-principles.md) — Reference checklist pack for OECD — AI Principles.
+- [OECD/LEGAL/0449 — Recommendation of the Council on AI](./gov-06-oecd-legal-0449-recommendation-of-the-council-on-ai.md) — Reference checklist pack for OECD/LEGAL/0449 — Recommendation of the Council on AI.
+- [UNESCO — Recommendation on the Ethics of AI](./gov-07-unesco-recommendation-on-the-ethics-of-ai.md) — Reference checklist pack for UNESCO — Recommendation on the Ethics of AI.
+- [Council of Europe — Framework Convention on AI (CETS No. 225)](./gov-08-council-of-europe-framework-convention-on-ai-cets-no-225.md) — Reference checklist pack for Council of Europe — Framework Convention on AI (CETS No.
+- [G7 — Hiroshima Process International Guiding Principles for Advanced AI](./gov-09-g7-hiroshima-process-international-guiding-principles-for-advanced-ai.md) — Reference checklist pack for G7 — Hiroshima Process International Guiding Principles for Advanced AI.
+- [G7 — Hiroshima Process International Code of Conduct for Advanced AI](./gov-10-g7-hiroshima-process-international-code-of-conduct-for-advanced-ai.md) — Reference checklist pack for G7 — Hiroshima Process International Code of Conduct for Advanced AI.
+- [ISO/IEC 38507:2022 — Governance implications of AI use by organizations](./gov-11-iso-iec-38507-2022-governance-implications-of-ai-use-by-organizations.md) — Reference checklist pack for ISO/IEC 38507:2022 — Governance implications of AI use by organizations.
+- [NIST — Generative AI Profile (NIST.AI.600-1)](./gov-12-nist-generative-ai-profile-nist-ai-600-1.md) — Reference checklist pack for NIST — Generative AI Profile (NIST.AI.600-1).
+- [ISO/IEC 42005:2025 — AI system impact assessment](./gov-13-iso-iec-42005-2025-ai-system-impact-assessment.md) — Reference checklist pack for ISO/IEC 42005:2025 — AI system impact assessment.
+- [ISO/IEC 42006:2025 — Requirements for AIMS certification bodies](./gov-14-iso-iec-42006-2025-requirements-for-aims-certification-bodies.md) — Reference checklist pack for ISO/IEC 42006:2025 — Requirements for AIMS certification bodies.
+- [ISO/IEC 22989:2022 — AI concepts and terminology](./gov-15-iso-iec-22989-2022-ai-concepts-and-terminology.md) — Reference checklist pack for ISO/IEC 22989:2022 — AI concepts and terminology.
+- [CEN-CENELEC JTC 21 — AI standardization supporting EU legislation](./gov-16-cen-cenelec-jtc-21-ai-standardization-supporting-eu-legislation.md) — Reference checklist pack for CEN-CENELEC JTC 21 — AI standardization supporting EU legislation.
+- [ISO/IEC JTC 1/SC 42 — AI standards portfolio](./gov-17-iso-iec-jtc-1-sc-42-ai-standards-portfolio.md) — Reference checklist pack for ISO/IEC JTC 1/SC 42 — AI standards portfolio.
+- [US (Federal) — OMB Memorandum M-25-21 (Accelerating Federal Use of AI...)](./gov-18-us-federal-omb-memorandum-m-25-21-accelerating-federal-use-of-ai.md) — Reference checklist pack for US (Federal) — OMB Memorandum M-25-21 (Accelerating Federal Use of AI...).
+- [US (Federal) — White House Order: Removing Barriers to American Leadership in AI](./gov-19-us-federal-white-house-order-removing-barriers-to-american-leadership-in-ai.md) — Reference checklist pack for US (Federal) — White House Order: Removing Barriers to American Leadership in AI.
+- [UK — AI regulation: a pro-innovation approach (White Paper)](./gov-20-uk-ai-regulation-a-pro-innovation-approach-white-paper.md) — Reference checklist pack for UK — AI regulation: a pro-innovation approach (White Paper).
+- [Canada — Directive on Automated Decision-Making](./gov-21-canada-directive-on-automated-decision-making.md) — Reference checklist pack for Canada — Directive on Automated Decision-Making.
+- [Canada — Algorithmic Impact Assessment (AIA) tool](./gov-22-canada-algorithmic-impact-assessment-aia-tool.md) — Reference checklist pack for Canada — Algorithmic Impact Assessment (AIA) tool.
+- [Canada — Guide on the scope of the Directive on Automated Decision-Making](./gov-23-canada-guide-on-the-scope-of-the-directive-on-automated-decision-making.md) — Reference checklist pack for Canada — Guide on the scope of the Directive on Automated Decision-Making.
+- [Canada — Artificial Intelligence and Data Act (AIDA) (Bill C-27)](./gov-24-canada-artificial-intelligence-and-data-act-aida-bill-c-27.md) — Reference checklist pack for Canada — Artificial Intelligence and Data Act (AIDA) (Bill C-27).
+- [China — Interim Measures for the Management of Generative AI Services](./gov-25-china-interim-measures-for-the-management-of-generative-ai-services.md) — Reference checklist pack for China — Interim Measures for the Management of Generative AI Services.
+- [China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services](./gov-26-china-provisions-on-the-administration-of-deep-synthesis-of-internet-base-ab97302a.md) — Reference checklist pack for China — Provisions on the Administration of Deep Synthesis of Internet-based Information Services.
+- [China — Provisions on the Administration of Algorithmic Recommendation for Internet Information Services](./gov-27-china-provisions-on-the-administration-of-algorithmic-recommendation-for-096abdc9.md) — Reference checklist pack for China — Provisions on the Administration of Algorithmic Recommendation for Internet Information Services.
+- [Singapore — Model AI Governance Framework (2nd Edition)](./gov-28-singapore-model-ai-governance-framework-2nd-edition.md) — Reference checklist pack for Singapore — Model AI Governance Framework (2nd Edition).
+- [Singapore — AI Verify](./gov-29-singapore-ai-verify.md) — Reference checklist pack for Singapore — AI Verify.
+- [Singapore — Model AI Governance Framework for Generative AI](./gov-30-singapore-model-ai-governance-framework-for-generative-ai.md) — Reference checklist pack for Singapore — Model AI Governance Framework for Generative AI.
+- [Singapore — Model AI Governance Framework for Agentic AI](./gov-31-singapore-model-ai-governance-framework-for-agentic-ai.md) — Reference checklist pack for Singapore — Model AI Governance Framework for Agentic AI.
+- [South Korea — Framework Act on AI development and creation of foundation for trust (AI Basic Act)](./gov-32-south-korea-framework-act-on-ai-development-and-creation-of-foundation-fo-fb184997.md) — Reference checklist pack for South Korea — Framework Act on AI development and creation of foundation for trust (AI Basic Act).
+- [South Korea — Implementing Decree (시행령) for the AI Basic Act](./gov-33-south-korea-implementing-decree-for-the-ai-basic-act.md) — Reference checklist pack for South Korea — Implementing Decree (시행령) for the AI Basic Act.
+- [Japan — AI Guidelines for Business (ver. 1.0)](./gov-34-japan-ai-guidelines-for-business-ver-1-0.md) — Reference checklist pack for Japan — AI Guidelines for Business (ver.
+- [Japan — AI Guidelines for Business (ver. 1.01 PDF)](./gov-35-japan-ai-guidelines-for-business-ver-1-01-pdf.md) — Reference checklist pack for Japan — AI Guidelines for Business (ver.
+- [Australia — AI Ethics Principles](./gov-36-australia-ai-ethics-principles.md) — Reference checklist pack for Australia — AI Ethics Principles.
+- [Australia — Mandatory guardrails for AI in high-risk settings (proposal)](./gov-37-australia-mandatory-guardrails-for-ai-in-high-risk-settings-proposal.md) — Reference checklist pack for Australia — Mandatory guardrails for AI in high-risk settings (proposal).
+- [Australia — National AI Plan](./gov-38-australia-national-ai-plan.md) — Reference checklist pack for Australia — National AI Plan.
+- [Australia — AI Plan for the Australian Public Service 2025](./gov-39-australia-ai-plan-for-the-australian-public-service-2025.md) — Reference checklist pack for Australia — AI Plan for the Australian Public Service 2025.
+- [India — Digital Personal Data Protection Act, 2023 (DPDP Act)](./gov-40-india-digital-personal-data-protection-act-2023-dpdp-act.md) — Reference checklist pack for India — Digital Personal Data Protection Act, 2023 (DPDP Act).
+- [India — MeitY Advisory on AI models/LLMs/GenAI for intermediaries/platforms](./gov-41-india-meity-advisory-on-ai-models-llms-genai-for-intermediaries-platforms.md) — Reference checklist pack for India — MeitY Advisory on AI models/LLMs/GenAI for intermediaries/platforms.
+- [India — National Strategy for AI (NITI Aayog)](./gov-42-india-national-strategy-for-ai-niti-aayog.md) — Reference checklist pack for India — National Strategy for AI (NITI Aayog).
+- [Brazil — AI Regulation Bill (PL 2.338/2023) — Senate matter](./gov-43-brazil-ai-regulation-bill-pl-2-338-2023-senate-matter.md) — Reference checklist pack for Brazil — AI Regulation Bill (PL 2.338/2023) — Senate matter.
+- [Brazil — PL 2.338/2023 — Chamber of Deputies docket](./gov-44-brazil-pl-2-338-2023-chamber-of-deputies-docket.md) — Reference checklist pack for Brazil — PL 2.338/2023 — Chamber of Deputies docket.
+- [South Africa — Protection of Personal Information Act (POPIA)](./gov-45-south-africa-protection-of-personal-information-act-popia.md) — Reference checklist pack for South Africa — Protection of Personal Information Act (POPIA).
+- [South Africa — SA National AI Policy Framework (draft)](./gov-46-south-africa-sa-national-ai-policy-framework-draft.md) — Reference checklist pack for South Africa — SA National AI Policy Framework (draft).
+- [Mexico — Federal Law on Protection of Personal Data Held by Private Parties (LFPDPPP)](./gov-47-mexico-federal-law-on-protection-of-personal-data-held-by-private-parties-lfpdppp.md) — Reference checklist pack for Mexico — Federal Law on Protection of Personal Data Held by Private Parties (LFPDPPP).
+- [Mexico — Agenda Nacional Mexicana de IA 2030 (AI strategy)](./gov-48-mexico-agenda-nacional-mexicana-de-ia-2030-ai-strategy.md) — Reference checklist pack for Mexico — Agenda Nacional Mexicana de IA 2030 (AI strategy).
+- [Mexico — DOF publication index (20 Mar 2025)](./gov-49-mexico-dof-publication-index-20-mar-2025.md) — Reference checklist pack for Mexico — DOF publication index (20 Mar 2025).
+- [US-CA — AI Transparency Act (SB 942; Business & Professions Code §22757)](./gov-50-us-ca-ai-transparency-act-sb-942-business-professions-code-22757.md) — Reference checklist pack for US-CA — AI Transparency Act (SB 942; Business & Professions Code §22757).
+- [US-CA — Frontier AI model statute (SB 53)](./gov-51-us-ca-frontier-ai-model-statute-sb-53.md) — Reference checklist pack for US-CA — Frontier AI model statute (SB 53).
+- [US-CO — Consumer Protections in Interactions with AI Systems (SB24-205)](./gov-52-us-co-consumer-protections-in-interactions-with-ai-systems-sb24-205.md) — Reference checklist pack for US-CO — Consumer Protections in Interactions with AI Systems (SB24-205).
+- [US-UT — Artificial Intelligence Amendments (SB 149)](./gov-53-us-ut-artificial-intelligence-amendments-sb-149.md) — Reference checklist pack for US-UT — Artificial Intelligence Amendments (SB 149).
+- [US-TX — Texas Responsible AI Governance Act (HB 149 / TRAIGA)](./gov-54-us-tx-texas-responsible-ai-governance-act-hb-149-traiga.md) — Reference checklist pack for US-TX — Texas Responsible AI Governance Act (HB 149 / TRAIGA).
+- [US-NY — RAISE Act (S6953B)](./gov-55-us-ny-raise-act-s6953b.md) — Reference checklist pack for US-NY — RAISE Act (S6953B).
+- [US-IL — Artificial Intelligence Video Interview Act (820 ILCS 42)](./gov-56-us-il-artificial-intelligence-video-interview-act-820-ilcs-42.md) — Reference checklist pack for US-IL — Artificial Intelligence Video Interview Act (820 ILCS 42).
